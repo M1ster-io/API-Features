@@ -4,7 +4,7 @@ API JSON Structure Viewer
 A lightweight Python tool that prints the structure of any JSON API response.
 Useful for exploring unfamiliar APIs and quickly understanding which keys, fields, and nested objects are included in the data.
 
-🚀 Features
+Features:
 
 Shows only the structure, not the values
 
